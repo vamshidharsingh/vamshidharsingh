@@ -69,7 +69,7 @@ _Jawaharlal Nehru Technological University | India_
 | [**Streaming Analytics Pipeline**](https://github.com/vamshidharsingh/financial-streaming-analytics) | `Kafka`, `PostgreSQL`, `Docker` | Real-time streaming data pipeline for ingesting and analyzing financial transactions. |
 | [**Resume Job Matching System**](https://github.com/vamshidharsingh/resume-job-matching-system) | `spaCy`, `SentenceTransformers` | AI-powered NLP system to evaluate and score resumes against job descriptions with explainable insights. |
 | **Azure Multi-Modal Compliance Engine** | `LangGraph`, `Azure OpenAI` | RAG pipeline that ingests videos, generates embeddings, and automates compliance auditing. |
-| **AI Music Composer** | `Groq LLM`, `GKE`, `Kubernetes` | LLM-powered generative music system deployed on GKE converting natural language into structured compositions. |
+| [**AI Music Composer**](https://github.com/vamshidharsingh/Agent_music_composer) | `Groq LLM`, `GKE`, `Kubernetes` | LLM-powered generative music system deployed on GKE converting natural language into structured compositions. |
 
 ---
 
