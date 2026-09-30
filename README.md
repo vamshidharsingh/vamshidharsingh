@@ -79,7 +79,7 @@ _Jawaharlal Nehru Technological University | India_
 
 ### 🏆 GitHub Trophies
 
-![Vamshi's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=vamshidharsingh&theme=radical)
+![Vamshi's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=vamshidharsingh&theme=radical&rank=-?)
 
 ### 💬 Random Dev Quote
 
