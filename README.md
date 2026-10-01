@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+I'm+Vamshidhar+Singh;AI%2FML+Engineer+%7C+Data+Scientist;Python,+TensorFlow,+PyTorch,+%26+MLOps;Building+Scalable+GenAI+%26+ML+Pipelines" alt="Typing SVG" />
 </p>
-
+ 
 # 👨‍💻 Vamshidhar Singh | AI/ML Engineer & Data Scientist
 
 💻 **AI/ML Engineer | Data Engineer | GenAI Specialist**  
