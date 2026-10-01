@@ -99,6 +99,9 @@ _Jawaharlal Nehru Technological University | India_
 | [**Financial RAG Platform**](https://github.com/vamshidharsingh/financial-rag-platform) | `LangChain`, `FAISS`, `Streamlit` | Retrieval-Augmented Generation (RAG) platform to semantically query dense financial documents and reports. |
 | [**Streaming Analytics Pipeline**](https://github.com/vamshidharsingh/financial-streaming-analytics) | `Kafka`, `PostgreSQL`, `Docker` | Real-time streaming data pipeline for ingesting and analyzing financial transactions. |
 | [**Resume Job Matching System**](https://github.com/vamshidharsingh/resume-job-matching-system) | `spaCy`, `SentenceTransformers` | AI-powered NLP system to evaluate and score resumes against job descriptions with explainable insights. |
+| [**Intelligent Recommendation Platform**](https://github.com/vamshidharsingh/intelligent-recommendation-personalization-platform) | `FastAPI`, `Scikit-learn`, `PostgreSQL` | Hybrid recommendation engine using collaborative filtering and NLP-based content scoring. |
+| [**Real-Time Fraud Detection**](https://github.com/vamshidharsingh/real-time-fraud-detection-streaming-ml) | `Kafka`, `XGBoost`, `Streamlit` | Event-driven ML pipeline for streaming fraud detection and real-time transaction scoring. |
+| [**End-to-End MLOps Platform**](https://github.com/vamshidharsingh/end-to-end-mlops-data-platform) | `Airflow`, `PySpark`, `MLflow` | Full ML lifecycle platform orchestrating ETL pipelines, experiment tracking, and model inference. |
 | **Azure Multi-Modal Compliance Engine** | `LangGraph`, `Azure OpenAI` | RAG pipeline that ingests videos, generates embeddings, and automates compliance auditing. |
 | [**AI Music Composer**](https://github.com/vamshidharsingh/Agent_music_composer) | `Groq LLM`, `GKE`, `Kubernetes` | LLM-powered generative music system deployed on GKE converting natural language into structured compositions. |
 
