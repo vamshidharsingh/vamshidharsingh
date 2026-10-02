@@ -2,24 +2,24 @@
 ![](assets/header_.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+I'm+Vamshidhar+Singh;AI%2FML+Engineer+%7C+Data+Scientist;Python,+TensorFlow,+PyTorch,+%26+MLOps;Building+Scalable+GenAI+%26+ML+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+I'm+Vamshidhar+Singh;AI%2FML+%26+Data+Engineer;LLM+Agents,+RAG,+%26+Streaming+Pipelines;Python,+TensorFlow,+PyTorch,+%26+MLOps" alt="Typing SVG" />
 </p>
 
-# 👨‍💻 Vamshidhar Singh | AI/ML Engineer & Data Scientist
+# 👨‍💻 Vamshidhar Singh | AI/ML & Data Engineer · LLM agents, RAG, streaming pipelines.
 
 💻 **AI/ML Engineer | Data Engineer | GenAI Specialist**  
-📧 **vamshidharsingh34@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/vamshidharsingh) | [GitHub](https://github.com/vamshidharsingh)
+📧 **vamshidharsingh@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vamshidharsingh) | [GitHub](https://github.com/vamshidharsingh) | [Portfolio](https://vamshidarsingh.com)
 
 ---
 
 ## 🚀 About Me
 
-I’m an **AI/ML Engineer** with 5 years of experience designing and deploying advanced machine learning solutions across fintech, payments, and risk domains. 
+I’m an **AI/ML & Data Engineer** with 5+ years of experience in AI/ML, NLP, and conversational systems. 
 
-My technical expertise lies in building end-to-end data pipelines with **Spark, Kafka, and Airflow**, and deploying low-latency machine learning inference services on **AWS and Azure** using **Docker and Kubernetes**. I have a strong focus on transformer-based architectures, RAG pipelines, and fraud detection systems. 
+At **Bank of America**, I lead the architecture of **Erica**, an enterprise conversational assistant routing customer intents across Claude, GPT-class, and in-house models to serve millions of monthly interactions. My recent engineering focus involves designing prompt patterns, curating enterprise RAG systems with Pinecone/ChromaDB, and fine-tuning streaming Speech AI (Whisper/Conformer) to reduce Word Error Rates (WER) by 22%.
 
-I am passionate about creating robust LLM-powered applications, optimizing model training algorithms, and establishing solid MLOps practices to bridge the gap between experimental models and scalable production environments.
+My technical expertise lies in building end-to-end data pipelines with **Spark, Kafka, and Airflow**, and deploying low-latency machine learning inference services on **AWS and Azure** using **Docker and Kubernetes**.
 
 ---
 
@@ -115,9 +115,7 @@ _Jawaharlal Nehru Technological University | India_
 
 ![Vamshi's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=vamshidharsingh&theme=radical&title=MultiLanguage,LongTimeUser,NewUser,Repositories,Commits&column=5)
 
-### 💬 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
