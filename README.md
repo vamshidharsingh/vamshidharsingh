@@ -1,4 +1,3 @@
-![](assets/Bottom_up.svg)
 ![](assets/header_.png)
 
 <p align="center">
@@ -23,9 +22,25 @@ My technical expertise lies in building end-to-end data pipelines with **Spark, 
 
 ---
 
+## 🧩 Featured Projects
+
+| 🎯 Project | 🛠️ Tech Stack | 📖 Description |
+| :--- | :--- | :--- |
+| [**Fintech Fraud Detection**](https://github.com/vamshidharsingh/fintech-fraud-detection) | `Python`, `XGBoost`, `FastAPI` | End-to-end Machine Learning system for detecting fraudulent financial transactions and assigning risk scores. |
+| [**Financial RAG Platform**](https://github.com/vamshidharsingh/financial-rag-platform) | `LangChain`, `FAISS`, `Streamlit` | Retrieval-Augmented Generation (RAG) platform to semantically query dense financial documents and reports. |
+| [**Streaming Analytics Pipeline**](https://github.com/vamshidharsingh/financial-streaming-analytics) | `Kafka`, `PostgreSQL`, `Docker` | Real-time streaming data pipeline for ingesting and analyzing financial transactions. |
+| [**Resume Job Matching System**](https://github.com/vamshidharsingh/resume-job-matching-system) | `spaCy`, `SentenceTransformers` | AI-powered NLP system to evaluate and score resumes against job descriptions with explainable insights. |
+| [**Intelligent Recommendation Platform**](https://github.com/vamshidharsingh/intelligent-recommendation-personalization-platform) | `FastAPI`, `Scikit-learn`, `PostgreSQL` | Hybrid recommendation engine using collaborative filtering and NLP-based content scoring. |
+| [**Real-Time Fraud Detection**](https://github.com/vamshidharsingh/real-time-fraud-detection-streaming-ml) | `Kafka`, `XGBoost`, `Streamlit` | Event-driven ML pipeline for streaming fraud detection and real-time transaction scoring. |
+| [**End-to-End MLOps Platform**](https://github.com/vamshidharsingh/end-to-end-mlops-data-platform) | `Airflow`, `PySpark`, `MLflow` | Full ML lifecycle platform orchestrating ETL pipelines, experiment tracking, and model inference. |
+| [**AI Music Composer**](https://github.com/vamshidharsingh/Agent_music_composer) | `Groq LLM`, `GKE`, `Kubernetes` | LLM-powered generative music system deployed on GKE converting natural language into structured compositions. |
+| **Azure Multi-Modal Compliance Engine** | `LangGraph`, `Azure OpenAI` | RAG pipeline that ingests videos, generates embeddings, and automates compliance auditing. |
+
+---
+
 ## 🧠 Technical Skills
 
-### 📊 Machine Learning & Gen AI
+### 🤖 Machine Learning & Gen AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -91,22 +106,6 @@ _Jawaharlal Nehru Technological University | India_
 
 ---
 
-## 🧩 Featured Projects
-
-| 📌 Project | 🛠️ Tech Stack | 📖 Description |
-| :--- | :--- | :--- |
-| [**Fintech Fraud Detection**](https://github.com/vamshidharsingh/fintech-fraud-detection) | `Python`, `XGBoost`, `FastAPI` | End-to-end Machine Learning system for detecting fraudulent financial transactions and assigning risk scores. |
-| [**Financial RAG Platform**](https://github.com/vamshidharsingh/financial-rag-platform) | `LangChain`, `FAISS`, `Streamlit` | Retrieval-Augmented Generation (RAG) platform to semantically query dense financial documents and reports. |
-| [**Streaming Analytics Pipeline**](https://github.com/vamshidharsingh/financial-streaming-analytics) | `Kafka`, `PostgreSQL`, `Docker` | Real-time streaming data pipeline for ingesting and analyzing financial transactions. |
-| [**Resume Job Matching System**](https://github.com/vamshidharsingh/resume-job-matching-system) | `spaCy`, `SentenceTransformers` | AI-powered NLP system to evaluate and score resumes against job descriptions with explainable insights. |
-| [**Intelligent Recommendation Platform**](https://github.com/vamshidharsingh/intelligent-recommendation-personalization-platform) | `FastAPI`, `Scikit-learn`, `PostgreSQL` | Hybrid recommendation engine using collaborative filtering and NLP-based content scoring. |
-| [**Real-Time Fraud Detection**](https://github.com/vamshidharsingh/real-time-fraud-detection-streaming-ml) | `Kafka`, `XGBoost`, `Streamlit` | Event-driven ML pipeline for streaming fraud detection and real-time transaction scoring. |
-| [**End-to-End MLOps Platform**](https://github.com/vamshidharsingh/end-to-end-mlops-data-platform) | `Airflow`, `PySpark`, `MLflow` | Full ML lifecycle platform orchestrating ETL pipelines, experiment tracking, and model inference. |
-| [**AI Music Composer**](https://github.com/vamshidharsingh/Agent_music_composer) | `Groq LLM`, `GKE`, `Kubernetes` | LLM-powered generative music system deployed on GKE converting natural language into structured compositions. |
-| **Azure Multi-Modal Compliance Engine** | `LangGraph`, `Azure OpenAI` | RAG pipeline that ingests videos, generates embeddings, and automates compliance auditing. |
-
----
-
 ## 📊 GitHub Stats
 
 [![Vamshi's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vamshidharsingh?cardType=octocat&theme=radical&fontFamily=Ubuntu&preferLogin=false)](https://github.com/vamshidharsingh)
@@ -115,11 +114,9 @@ _Jawaharlal Nehru Technological University | India_
 
 ![Vamshi's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=vamshidharsingh&theme=radical&title=MultiLanguage,LongTimeUser,NewUser,Repositories,Commits&column=5)
 
-
-
 ---
 
 ## 🌟 Let’s Connect
 
-💼 Open to AI/ML engineering, Data Science, and MLOps opportunities.  
-📩 **Let’s build intelligent, scalable data-driven solutions together!**
+💡 Open to AI/ML engineering, Data Science, and MLOps opportunities.  
+🚀 **Let’s build intelligent, scalable data-driven solutions together!**
